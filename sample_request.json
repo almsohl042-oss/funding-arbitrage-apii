@@ -1,0 +1,24 @@
+{
+  "symbol": "KAVAUSDT",
+  "quote_currency": "USDT",
+  "exchange_a": {
+    "exchange": "Bybit",
+    "side": "long",
+    "entry_price": 0.02928,
+    "exit_price": 0.02932,
+    "margin": 500,
+    "leverage": 5,
+    "funding_rate_pct": -0.01,
+    "trading_fee_pct": 0.05
+  },
+  "exchange_b": {
+    "exchange": "Binance",
+    "side": "short",
+    "entry_price": 0.0293,
+    "exit_price": 0.02931,
+    "margin": 500,
+    "leverage": 5,
+    "funding_rate_pct": 0.01,
+    "trading_fee_pct": 0.05
+  }
+}
